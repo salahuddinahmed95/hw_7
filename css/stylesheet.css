@@ -1,0 +1,117 @@
+/* Common CSS Start */
+body{
+  Margin: 0 0;
+  padding: 0 0;
+  font-family: "Playfair Display", serif;
+  font-size: 16px;
+  font-weight: 400px;
+  color: #626262;
+}
+/* Common CSS End */
+/* header Start */
+header{
+
+}
+.container{
+  margin: 0 auto;
+  width: 90%;
+  /* border: 2px solid; */
+  overflow: hidden;
+
+}
+.logo{
+  margin: 12px;
+  width: 10%;
+  float: left;
+  /* border: 1px solid green; */
+}
+.logo a{}
+.logo a img{
+  width: 100%;
+}
+.menu{
+  width: 70%;
+  float: right;
+
+}
+.menu ul{
+   float: right; 
+}
+.menu ul li{
+  list-style: none;
+  float: left;
+}
+.menu ul li a{
+  display: inline-block;
+  margin: 0 45px;
+  text-decoration: none;
+  color: #626262;
+  border-bottom:1.5px solid transparent ;
+  text-transform: uppercase;
+}
+.menu ul li:last-child a{
+  margin-right: 0;
+}
+
+.menu ul li a:hover{
+  color:blueviolet;  
+border-bottom: 1.5px solid #b4ad9e ;
+}
+/* header End */
+/* banner start */
+section{
+
+
+}
+
+.banner{
+
+}
+.b_img{
+
+}
+.b_img img{
+  width: 100%;
+
+}
+/* banner end */
+/* section start */
+.section{
+  padding:100px 0 0;
+}
+.container2{
+  width:80%;
+  margin: 0 auto;
+}
+.a_content{
+  
+  padding: 100 25px;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+}
+.c_link{
+  text-decoration: none;
+  font-family: "Ubuntu", serif;
+  font-size: 14px;
+  font-weight: 300px;
+  text-transform: uppercase;
+  color: #333333
+}
+.c_h2{
+  
+  font-size: 30px;
+ 
+  
+}
+.c_p{
+    font-size: 16px;
+    line-height: 24px; 
+    
+}
+
+
+
+
+
+
+/* section end */
